@@ -33,8 +33,8 @@ Je suis apprentis développeur passionné par le développement web full-stack. 
 
 ## 📫 Comment me contacter
 - Email : tibiscuit95@gmail.com
-- LinkedIn : [Mon Profil LinkedIn]([https://www.linkedin.com/in/romain-howald-9345a5145/])
-- Twitter : [@TiBiscuit95]([https://x.com/Titbiscuit95])
+- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/romain-howald-9345a5145/)
+- Twitter : [@TiBiscuit95](https://x.com/Titbiscuit95)
 
 ## ⚡ Fun fact
 - Je suis un grand amateur de jeux vidéo et j'aime explorer de nouvelles technologies en développement web pendant mon temps libre.
