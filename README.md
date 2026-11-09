@@ -4,7 +4,7 @@ Je suis apprentis développeur passionné par le développement web full-stack. 
 
 
 ## 🔧 Technologies & Outils
-- **Langages :** HTML, CSS, JavaScript, Python, Java
+- **Langages :** HTML, CSS, JavaScript, Python, Typescript
 - **Frameworks :** Angular, Node.js, Express.js
 - **Bases de données :** SQL, NoSQL
 - **Outils :** Git, Docker, VSCode
@@ -23,20 +23,14 @@ Je suis apprentis développeur passionné par le développement web full-stack. 
 
 ## 🚀 Objectifs
 - Améliorer mes compétences en développement full-stack.
-- Contribuer à des projets open source.
 - Apprendre de nouvelles technologies et frameworks.
-
-
-## 🌱 En apprentissage
-- Actuellement, j'apprends Angular et NoSQL.
 
 
 ## 📫 Comment me contacter
 - Email : tibiscuit95@gmail.com
 - LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/romain-howald-9345a5145/)
-- Twitter : [@TiBiscuit95](https://x.com/Titbiscuit95)
 
 ## ⚡ Fun fact
-- Je suis un grand amateur de jeux vidéo et j'aime explorer de nouvelles technologies en développement web pendant mon temps libre.
+- Je suis un grand amateur de jeux vidéo et de moto et j'aime explorer de nouvelles technologies en développement web pendant mon temps libre.
 
 Merci d'avoir pris le temps de lire ceci et de visiter mon profil ! 😊
